@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Node modules (if you add any)
+node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build files (if any)
+dist/
+build/
+
